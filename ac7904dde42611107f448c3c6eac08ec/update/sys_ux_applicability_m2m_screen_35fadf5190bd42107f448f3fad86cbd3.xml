@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Safety Admins AK">18cadf1190bd42107f448f3fad86cb09</applicability>
+        <order>0</order>
+        <screen display_value="Safety Landing Page Safety Admins AK">a1fadf5190bd42107f448f3fad86cbd0</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 17:26:38</sys_created_on>
+        <sys_id>35fadf5190bd42107f448f3fad86cbd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">ac7904dde42611107f448c3c6eac08ec</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_35fadf5190bd42107f448f3fad86cbd3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 17:26:38</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>
